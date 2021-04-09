@@ -1,2 +1,1 @@
-# risomod
-Riso Moderasyon V12
+# TamManyakMod
