@@ -1,1 +1,1 @@
-# TamManyakMod
+# riso.js
